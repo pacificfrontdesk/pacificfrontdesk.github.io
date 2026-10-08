@@ -1,0 +1,12 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["93NF8SSXQ6.com.olegnochka.partydeck"],
+        "components": [
+          { "/": "/partydeck/d", "#": "*", "comment": "Party Deck shared deck links" }
+        ]
+      }
+    ]
+  }
+}
