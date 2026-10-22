@@ -4,7 +4,7 @@ Root GitHub Pages site for the pacificfrontdesk org. It exists for one file:
 `.well-known/apple-app-site-association`, which Apple only reads from the domain root.
 It tells iOS which links on this domain open which app (universal links).
 
-- Party Deck (`93NF8SSXQ6.com.olegnochka.partydeck`): `/partydeck/d#...` shared deck links.
+- DeckPop (`93NF8SSXQ6.com.olegnochka.partydeck`, formerly Party Deck): `/deckpop/d#...` shared deck links (old `/partydeck/d` kept).
 
 `.nojekyll` is required, otherwise GitHub Pages skips the `.well-known` folder.
 Each app's own pages stay in its own repo at `/<app>/`.

@@ -2,9 +2,20 @@
   "applinks": {
     "details": [
       {
-        "appIDs": ["93NF8SSXQ6.com.olegnochka.partydeck"],
+        "appIDs": [
+          "93NF8SSXQ6.com.olegnochka.partydeck"
+        ],
         "components": [
-          { "/": "/partydeck/d", "#": "*", "comment": "Party Deck shared deck links" }
+          {
+            "/": "/deckpop/d",
+            "#": "*",
+            "comment": "DeckPop shared deck links"
+          },
+          {
+            "/": "/partydeck/d",
+            "#": "*",
+            "comment": "Links shared before the rename from Party Deck"
+          }
         ]
       }
     ]
